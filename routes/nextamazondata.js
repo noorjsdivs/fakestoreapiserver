@@ -40,15 +40,15 @@ const nextamazonproducts = [
   },
   {
     id: 9004,
-    title: "Seagate Portable 2TB External Hard Drive",
+    title: "Smart Watches for Men",
     price: 56.99,
     oldPrice: 65.85,
     description:
-      "Seagate Portable 2TB External Hard Drive HDD — USB 3.0 for PC, Mac, PlayStation, & Xbox -1-Year Rescue Service (STGX2000400)",
-    category: "Electronics",
-    image: "https://i.ibb.co/SsyhMcR/nextamazon4.jpg",
+      "Smart Watches for Men (Answer/Make Call) 100 Sport Modes Fitness Tracker Heart Rate Blood Oxygen Sleep Monitor IP68 Waterproof Fitness Watch Activity Tracker and Smartwatches iPhone Android Compatible",
+    category: "Smart watch",
+    image: "https://i.ibb.co/0Gvx3Sk/nextImg.jpg",
     isNew: true,
-    brand: "Seagate",
+    brand: "ENOMIR",
   },
   {
     id: 9005,
