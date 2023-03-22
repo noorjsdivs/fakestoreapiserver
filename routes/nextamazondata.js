@@ -125,7 +125,8 @@ const nextamazonproducts = [
   {
     _id: 9011,
     title: "Canon EOS Rebel T100",
-    des: "Canon EOS Rebel T100 Digital SLR Camera with 18-55mm Lens Kit, 18 Megapixel Sensor, Wi-Fi, DIGIC4+, SanDisk 32GB Memory Card and Live View Shooting",
+    description:
+      "Canon EOS Rebel T100 Digital SLR Camera with 18-55mm Lens Kit, 18 Megapixel Sensor, Wi-Fi, DIGIC4+, SanDisk 32GB Memory Card and Live View Shooting",
     price: 559.99,
     oldPrice: 700.0,
     image: "https://i.ibb.co/1r28gMk/1.webp",
@@ -136,7 +137,8 @@ const nextamazonproducts = [
   {
     _id: 9012,
     title: "DJI Air",
-    des: "DJI Mini 2 Fly More Combo - Ultralight Foldable Drone, 3-Axis Gimbal with 4K Camera, 12MP Photos, 31 Min Flight Time",
+    description:
+      "DJI Mini 2 Fly More Combo - Ultralight Foldable Drone, 3-Axis Gimbal with 4K Camera, 12MP Photos, 31 Min Flight Time",
     oldPrice: 1050.0,
     price: 999.0,
     brand: "DJI",
@@ -147,7 +149,8 @@ const nextamazonproducts = [
   {
     _id: 9013,
     title: "Apple 10.2-inch iPad",
-    des: "2021 Apple 10.2-inch iPad Wi-Fi 64GB - Space Gray (9th Generation)",
+    description:
+      "2021 Apple 10.2-inch iPad Wi-Fi 64GB - Space Gray (9th Generation)",
     oldPrice: 329.0,
     price: 269.0,
     image: "https://i.ibb.co/VL1Dnv1/4.webp",
@@ -158,7 +161,7 @@ const nextamazonproducts = [
   {
     _id: 9014,
     title: "iPhone 14",
-    des: "AT&T iPhone 14 128GB Midnight",
+    description: "AT&T iPhone 14 128GB Midnight",
     oldPrice: 1745.99,
     price: 1200.0,
     image: "https://i.ibb.co/5F3nWv6/7.webp",
@@ -169,7 +172,8 @@ const nextamazonproducts = [
   {
     _id: 9015,
     title: "Apple Watch SE",
-    des: "Apple Watch SE (2nd Gen) GPS 40mm Midnight Aluminum Case with Midnight Sport Band - S/M",
+    description:
+      "Apple Watch SE (2nd Gen) GPS 40mm Midnight Aluminum Case with Midnight Sport Band - S/M",
     price: 249.0,
     oldPrice: 350.0,
     image: "https://i.ibb.co/xgZWmdq/8.jpg",
@@ -180,7 +184,8 @@ const nextamazonproducts = [
   {
     _id: 9016,
     title: "Beats Solo3",
-    des: "Beats Solo3 Wireless On-Ear Headphones with Apple W1 Headphone Chip, Black, MX432LL/A",
+    description:
+      "Beats Solo3 Wireless On-Ear Headphones with Apple W1 Headphone Chip, Black, MX432LL/A",
     oldPrice: 120.99,
     price: 130.09,
     image: "https://i.ibb.co/rQKjVC2/5.webp",
@@ -191,7 +196,8 @@ const nextamazonproducts = [
   {
     _id: 9017,
     title: "uhomepro TV Stand Cabinet",
-    des: "uhomepro TV Stand Cabinet for Living Room up to 55 Television, Entertainment Center with RGB LED Lights and Storage Shelves Furniture, Black High Gloss TV Cabinet Console Table, Q15709",
+    description:
+      "uhomepro TV Stand Cabinet for Living Room up to 55 Television, Entertainment Center with RGB LED Lights and Storage Shelves Furniture, Black High Gloss TV Cabinet Console Table, Q15709",
     oldPrice: 219.99,
     price: 125.99,
     image: "https://i.ibb.co/Ycz8hkV/6.webp",
@@ -202,7 +208,8 @@ const nextamazonproducts = [
   {
     _id: 9018,
     title: "Pupuskyer Smart Watch",
-    des: "Pupuskyer Smart Watch, 1.7inchs Fitness Tracker with Heart Rate Monitor,Blood Oxygen Tracking, Sleep Tracking for Android iPhone Samsung,Water Resistant Smart Watches for Men Women with Watch Talking",
+    description:
+      "Pupuskyer Smart Watch, 1.7inchs Fitness Tracker with Heart Rate Monitor,Blood Oxygen Tracking, Sleep Tracking for Android iPhone Samsung,Water Resistant Smart Watches for Men Women with Watch Talking",
     oldPrice: 49.99,
     price: 55.9,
     image: "https://i.ibb.co/VC2VWGL/nextamazon11.jpg",
@@ -213,7 +220,8 @@ const nextamazonproducts = [
   {
     _id: 9019,
     title: "SAMSUNG Galaxy S23 Ultra Cell Phone",
-    des: "SAMSUNG Galaxy S23 Ultra Cell Phone, Factory Unlocked Android Smartphone, 512GB Storage, 200MP Camera, Night Mode, Long Battery Life, S Pen, US Version, 2023, Cream",
+    description:
+      "SAMSUNG Galaxy S23 Ultra Cell Phone, Factory Unlocked Android Smartphone, 512GB Storage, 200MP Camera, Night Mode, Long Battery Life, S Pen, US Version, 2023, Cream",
     oldPrice: 1279.99,
     price: 1500.0,
     image: "https://i.ibb.co/THwjSTK/nextamazon12.jpg",
@@ -224,7 +232,8 @@ const nextamazonproducts = [
   {
     _id: 9020,
     title: "Apple iPhone 12 Mini 5G",
-    des: "Apple iPhone 12 Mini 5G, US Version, 128GB, Blue - Unlocked (Renewed)",
+    description:
+      "Apple iPhone 12 Mini 5G, US Version, 128GB, Blue - Unlocked (Renewed)",
     oldPrice: 344.0,
     price: 365.0,
     image: "https://i.ibb.co/nry7WRZ/nextamazon13.jpg",
