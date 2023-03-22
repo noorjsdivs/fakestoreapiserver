@@ -94,7 +94,7 @@ const nextamazonproducts = [
     description:
       "SkyTech Shadow 3.0 Gaming Computer PC Desktop - Ryzen 5 3600 6-Core 3.6GHz, GTX 1660 Super 6G, 1TB SSD, 16GB DDR4 3000, AC WiFi, Windows 10 Home 64-bit, Black",
     category: "Computer",
-    image: "https://i.ib",
+    image: "https://i.ibb.co/DYmhxf8/nextamazon8.jpg",
     isNew: true,
     brand: "SkyTech",
   },
