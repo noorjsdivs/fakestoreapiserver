@@ -36,7 +36,7 @@ const nextamazonproducts = [
     category: "Electronics",
     image: "https://i.ibb.co/SybqWjf/nextamazon3.jpg",
     isNew: true,
-    brand: "",
+    brand: "Apple",
   },
   {
     _id: 9004,
