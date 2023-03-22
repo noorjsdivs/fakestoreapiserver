@@ -3,7 +3,7 @@ const router = express.Router();
 
 const nextamazonproducts = [
   {
-    id: 9001,
+    _id: 9001,
     title: "Acer Nitro 5 AN515-57-79TD Gaming Laptop",
     price: 739.99,
     oldPrice: 1000.99,
@@ -15,7 +15,7 @@ const nextamazonproducts = [
     brand: "Acer",
   },
   {
-    id: 9002,
+    _id: 9002,
     title: "Acer Aspire 5 A515-45-R74Z Slim Laptop",
     price: 399.99,
     oldPrice: 599.45,
@@ -27,7 +27,7 @@ const nextamazonproducts = [
     brand: "Acer",
   },
   {
-    id: 9003,
+    _id: 9003,
     title: "2020 Apple iPad Pro",
     price: 747.07,
     oldPrice: 850.99,
@@ -39,7 +39,7 @@ const nextamazonproducts = [
     brand: "",
   },
   {
-    id: 9004,
+    _id: 9004,
     title: "Smart Watches for Men",
     price: 56.99,
     oldPrice: 65.85,
@@ -51,7 +51,7 @@ const nextamazonproducts = [
     brand: "ENOMIR",
   },
   {
-    id: 9005,
+    _id: 9005,
     title: "KOORUI 24 Inch Computer Monitor -FHD 1080P Gaming Monitor",
     price: 118.9,
     oldPrice: 180.58,
@@ -63,7 +63,7 @@ const nextamazonproducts = [
     brand: "KOORUI",
   },
   {
-    id: 9006,
+    _id: 9006,
     title: "GMKtec Mini PC Window 11 Pro",
     price: 338.0,
     oldPrice: 450.0,
@@ -75,7 +75,7 @@ const nextamazonproducts = [
     brand: "GMKtec",
   },
   {
-    id: 9007,
+    _id: 9007,
     title: "larco Gaming PC Desktop Computer Intel i7",
     price: 499.99,
     oldPrice: 520.5,
@@ -87,7 +87,7 @@ const nextamazonproducts = [
     brand: "larco",
   },
   {
-    id: 9008,
+    _id: 9008,
     title: "SkyTech Shadow 3.0 Gaming Computer PC",
     price: 899.99,
     oldPrice: 950.0,
@@ -99,7 +99,7 @@ const nextamazonproducts = [
     brand: "SkyTech",
   },
   {
-    id: 9009,
+    _id: 9009,
     title: "Skullcandy Crusher Evo Wireless Over-Ear Bluetooth Headphones",
     price: 147.9,
     oldPrice: 190.5,
@@ -111,7 +111,7 @@ const nextamazonproducts = [
     brand: "Skullcandy ",
   },
   {
-    id: 9010,
+    _id: 9010,
     title: "Garmin 010-02430-01 Venu 2",
     price: 319.98,
     oldPrice: 450.5,
