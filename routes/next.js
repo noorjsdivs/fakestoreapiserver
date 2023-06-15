@@ -178,18 +178,6 @@ nextData = [
     category: "Electronics",
   },
   {
-    _id: 15074553,
-    title: "uhomepro TV Stand Cabinet",
-    description:
-      "uhomepro TV Stand Cabinet for Living Room up to 55 Television, Entertainment Center with RGB LED Lights and Storage Shelves Furniture, Black High Gloss TV Cabinet Console Table, Q15709",
-    oldPrice: 219.99,
-    price: 125.99,
-    brand: "uhomepro",
-    image: "https://i.ibb.co/Ycz8hkV/6.webp",
-    isNew: true,
-    category: "Home Decoration",
-  },
-  {
     _id: 16084554,
     title: "T-Shirt Men",
     description:
